@@ -5,39 +5,35 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": " Technology",
+      "url": "/categories/technology"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": " Lifestyle",
+      "url": "/categories/lifestyle"
     },
     {
-      "name": "Pages",
+      "name": "Trends",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Arts",
+          "url": "/categories/art"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Food",
+          "url": "/categories/food"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Development",
+          "url": "/categories/development"
         }
       ]
+    },
+    {
+      "name": "About",
+      "url": "/about"
     }
   ],
   "footer": [

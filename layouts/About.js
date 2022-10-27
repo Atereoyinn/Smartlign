@@ -27,10 +27,21 @@ const About = ({ data }) => {
 
         <div className="content">
           <MDXRemote {...mdxContent} components={shortcodes} />
+          {/*<p>
+            Smartlign is your one-stop resource for all the information you need
+            about technology, including helpful tips. We aim to keep you
+            up-to-date with the latest gadgets and tech trends. Additionally, we
+            will feature entertainment news, guides, and buzz. With this
+            information, we strive to engage readers by delivering simple but
+            brilliant articles. For the sake of our readers, quality will take
+            precedence over quantity. Moreover, we encourage our writers to
+            bring their creative views on Smartlign in a fun, interactive way.
+            Finally, the Smartlign team is keen on moving fast and introducing
+            the platform to readers as one of the best.
+          </p>*/}
         </div>
       </div>
     </section>
   );
 };
-
 export default About;

@@ -1,7 +1,7 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, currently at Bookworm"
+title: "I’m Olanrenwaju Timileyin, A content writer based in LDN, currently the chief content manager at Smartlign"
 meta_title: "About"
-image: "/images/author.jpg"
+image: ""
 layout: "about"
 draft: false
 
@@ -12,6 +12,12 @@ social:
   instagram: "https://www.instagram.com"
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Smartlign is your one-stop resource for all the information you need about technology, including
+helpful tips. We aim to keep you up-to-date with the latest gadgets and tech trends.
+Additionally, we will feature entertainment news, guides, and buzz.
+With this information, we strive to engage readers by delivering simple but brilliant articles. For
+the sake of our readers, quality will take precedence over quantity.
+Moreover, we encourage our writers to bring their creative views on Smartlign in a fun,
+interactive way.
+Finally, the Smartlign team is keen on moving fast and introducing the platform to readers as
+one of the best

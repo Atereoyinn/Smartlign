@@ -29,7 +29,7 @@ const SearchModal = ({ searchModal, setSearchModal }) => {
         type="text"
         className="form-input"
         id="searchModal"
-        placeholder="Type and hit enter..."
+        placeholder="Type a search term and hit enter..."
         onChange={(e) => setInput(e.target.value)}
       />
     </div>
