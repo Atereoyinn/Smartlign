@@ -6,7 +6,7 @@ import { markdownify } from "@lib/utils/textConverter";
 import Link from "next/link";
 
 const Footer = () => {
-  const { copyright } = config.params;
+  const { Smartlign,Atereoyin } = config.params.copyright;
   return (
     <footer className="section bg-theme-dark">
       <div className="container text-center">
@@ -23,7 +23,8 @@ const Footer = () => {
         {/* social icons */}
         <Social source={social} className="social-icons mb-8" />
         {/* copyright */}
-        {markdownify(copyright, "p", "text-light")}
+        {markdownify(Smartlign, "p", "text-light")}
+        {markdownify(Atereoyin, "p", "text-light")}
       </div>
     </footer>
   );

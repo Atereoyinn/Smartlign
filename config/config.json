@@ -15,7 +15,10 @@
   },
   "params": {
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a Website by [Atereoyin](https://atereoyin.netlify.com)"
+    "copyright":{
+      "Smartlign":"Copyright © Smartlign Technology 2022",
+      "Atereoyin":"A Website by [Atereoyin](https://atereoyin.netlify.com)"
+    }
   },
   "metadata": {
     "meta_author": "Atereoyin",

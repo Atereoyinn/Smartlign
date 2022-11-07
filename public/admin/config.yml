@@ -1,0 +1,75 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "public/images/posts" # Where media files will be stored
+public_folder: "/images/posts" # Where the media files can be accesed from the server
+publish_mode: editorial_workflow # For Drafts
+
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "DD.MM.YYYY",
+          time_format: "HH:mm",
+          format: "LLL",
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          date_format: "DD.MM.YYYY",
+          time_format: "HH:mm",
+          format: "LLL",
+        }
+      - {
+          label: "Category",
+          name: "categories",
+          widget: "string",
+          date_format: "DD.MM.YYYY",
+          time_format: "HH:mm",
+          format: "LLL",
+        }
+      - {
+          label: "Content Author",
+          name: "date",
+          widget: "string",
+          date_format: "DD.MM.YYYY",
+          time_format: "HH:mm",
+          format: "LLL",
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "string",
+          date_format: "DD.MM.YYYY",
+          time_format: "HH:mm",
+          format: "LLL",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "authors" # Used in routes, e.g., /admin/collections/blog
+    label: "Authors" # Used in the UI
+    folder: "content/authors" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Author", name: "title", widget: "string" }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          date_format: "DD.MM.YYYY",
+          time_format: "HH:mm",
+          format: "LLL",
+        }
+      - { label: "Author's Bio", name: "body", widget: "markdown" }
+
