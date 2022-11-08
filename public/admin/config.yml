@@ -13,6 +13,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
+      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Publish Date",
@@ -72,4 +73,3 @@ collections:
           format: "LLL",
         }
       - { label: "Author's Bio", name: "body", widget: "markdown" }
-
