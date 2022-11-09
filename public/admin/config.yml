@@ -24,7 +24,7 @@ collections:
           format: "LLL",
         }
       - {
-          label: "Image",
+          label: "Blog Post Image",
           name: "image",
           widget: "image",
           date_format: "DD.MM.YYYY",
@@ -32,13 +32,21 @@ collections:
           format: "LLL",
         }
       - {
-          label: "Category",
+          label: "Blog Category",
           name: "categories",
-          widget: "string",
+          widget: "select",
+          default:"technology",
+          options:
+          {label:"Art",value:"art"}
+          {label:"Food",value:"food"}
+          {label:"Development",value:"development"}
+          {label:"Lifestyle",value:"lifestyle"}
+          {label:"Development",value:"development"}
           date_format: "DD.MM.YYYY",
           time_format: "HH:mm",
           format: "LLL",
-        }
+      }
+         
       - {
           label: "Content Author",
           name: "date",
@@ -65,7 +73,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Author", name: "title", widget: "string" }
       - {
-          label: "Image",
+          label: "Author Image",
           name: "image",
           widget: "image",
           date_format: "DD.MM.YYYY",
