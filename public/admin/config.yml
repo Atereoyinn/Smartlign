@@ -35,13 +35,13 @@ collections:
           label: "Blog Category",
           name: "categories",
           widget: "select",
-          default:"technology",
           options:
-          {label:"Art",value:"art"}
-          {label:"Food",value:"food"}
-          {label:"Development",value:"development"}
-          {label:"Lifestyle",value:"lifestyle"}
-          {label:"Development",value:"development"}
+            -{label:"Technology",value:"technology"}
+            -{label:"Art",value:"art"}
+            -{label:"Food",value:"food"}
+            -{label:"Development",value:"development"}
+            -{label:"Lifestyle",value:"lifestyle"}
+            -{label:"Development",value:"development"},
           date_format: "DD.MM.YYYY",
           time_format: "HH:mm",
           format: "LLL",
