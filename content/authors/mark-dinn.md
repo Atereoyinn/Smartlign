@@ -1,5 +1,5 @@
 ---
-title: Mark Twain
+title: Mathew
 image: /images/authors/mark-dinn.jpg
 description: this is meta description
 social:
