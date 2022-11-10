@@ -34,14 +34,7 @@ collections:
       - {
           label: "Blog Category",
           name: "categories",
-          widget: "select",
-          options:
-            -{label:"Technology",value:"technology"}
-            -{label:"Art",value:"art"}
-            -{label:"Food",value:"food"}
-            -{label:"Development",value:"development"}
-            -{label:"Lifestyle",value:"lifestyle"}
-            -{label:"Development",value:"development"},
+          widget: "text",
           date_format: "DD.MM.YYYY",
           time_format: "HH:mm",
           format: "LLL",
