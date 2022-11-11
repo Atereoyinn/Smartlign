@@ -5,6 +5,7 @@ backend:
 media_folder: "public/images/posts" # Where media files will be stored
 public_folder: "/images/posts" # Where the media files can be accesed from the server
 publish_mode: editorial_workflow # For Drafts
+logo_url: "/images/Smartlignn.jpg"
 
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
@@ -34,7 +35,7 @@ collections:
       - {
           label: "Blog Category",
           name: "categories",
-          widget: "text",
+          widget: "list",
           date_format: "DD.MM.YYYY",
           time_format: "HH:mm",
           format: "LLL",
@@ -51,7 +52,7 @@ collections:
       - {
           label: "Tags",
           name: "tags",
-          widget: "string",
+          widget: "list",
           date_format: "DD.MM.YYYY",
           time_format: "HH:mm",
           format: "LLL",
