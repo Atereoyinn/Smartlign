@@ -3,6 +3,8 @@ layout: blog
 title: What Do You Wear to a Boudoir Photoshoot?
 date: November 14, 2022 12:08 PM
 image: /images/posts/pexels-jo-kassis-4845744.jpg
+categories:
+  - Lifestyle
 authors: Timileyin
 tags:
   - Boudoir
