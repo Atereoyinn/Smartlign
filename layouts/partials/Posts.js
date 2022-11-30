@@ -27,10 +27,12 @@ const Posts = ({ posts, authors, className }) => {
           <ul className="mt-4 text-text">
             <li className="mb-2 mr-4 inline-block">
               {authors
-                .filter((author) =>
-                  post.frontmatter.authors
-                    .map((author) => slugify(author))
-                    .includes(slugify(author.frontmatter.title))
+                .filter(
+                  (author) =>
+                    post.frontmatter.authors &&
+                    Object.entries(post.frontmatter.authors)
+                      .map((author) => slugify(author))
+                      .includes(slugify(author.frontmatter.title))
                 )
                 .map((author, i) => (
                   <Link
@@ -38,6 +40,7 @@ const Posts = ({ posts, authors, className }) => {
                     key={`author-${i}`}
                     passHref
                   >
+                    {console.log(Object.entries(post.frontmatter.authors))}
                     <a className="inline-block hover:text-primary">
                       {author.frontmatter.image && (
                         <span className="author-image">
@@ -59,15 +62,21 @@ const Posts = ({ posts, authors, className }) => {
             </li>
             <li className="mb-2 mr-4 inline-block">
               <ul>
-                {post.frontmatter.categories.map((category, i) => (
-                  <li className="inline-block" key={`category-${i}`}>
-                    <Link href={`/categories/${slugify(category)}`} passHref>
-                      <a className="mr-3 hover:text-primary">
-                        &#9635; {humanize(category)}
-                      </a>
-                    </Link>
-                  </li>
-                ))}
+                {post.frontmatter.categories &&
+                  Object.entries(post.frontmatter.categories).map(
+                    (category, i) => (
+                      <li className="inline-block" key={`category-${i}`}>
+                        <Link
+                          href={`/categories/${slugify(category)}`}
+                          passHref
+                        >
+                          <a className="mr-3 hover:text-primary">
+                            &#9635; {humanize(category)}
+                          </a>
+                        </Link>
+                      </li>
+                    )
+                  )}
               </ul>
             </li>
           </ul>

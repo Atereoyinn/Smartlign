@@ -24,7 +24,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
               <li className="mb-2 mr-4 inline-block">
                 {authors
                   .filter((author) =>
-                    frontmatter.authors
+                    Object.entries(frontmatter.authors)
                       .map((author) => slugify(author))
                       .includes(slugify(author.frontmatter.title))
                   )
@@ -53,15 +53,19 @@ const PostSingle = ({ post, posts, authors, slug }) => {
               <li className="mb-2 mr-4 inline-block">{dateFormat(date)}</li>
               <li className="mb-2 mr-4 inline-block">
                 <ul>
-                  {categories.map((category, i) => (
-                    <li className="inline-block" key={`category-${i}`}>
-                      <Link href={`/categories/${slugify(category)}`} passHref>
-                        <a className="mr-3 hover:text-primary">
-                          &#9635; {humanize(category)}
-                        </a>
-                      </Link>
-                    </li>
-                  ))}
+                  {categories &&
+                    Object.entries(categories).map((category, i) => (
+                      <li className="inline-block" key={`category-${i}`}>
+                        <Link
+                          href={`/categories/${slugify(category)}`}
+                          passHref
+                        >
+                          <a className="mr-3 hover:text-primary">
+                            &#9635; {humanize(category)}
+                          </a>
+                        </Link>
+                      </li>
+                    ))}
                 </ul>
               </li>
             </ul>
@@ -83,7 +87,7 @@ const PostSingle = ({ post, posts, authors, slug }) => {
                 {tags.map((tag, i) => (
                   <li className="inline-block" key={`tag-${i}`}>
                     <Link href={`/tags/${slugify(tag)}`} passHref>
-                      <a className="bg-theme-light block rounded-lg px-4 py-2 font-semibold text-dark hover:text-primary">
+                      <a className="block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark hover:text-primary">
                         #{humanize(tag)}
                       </a>
                     </Link>

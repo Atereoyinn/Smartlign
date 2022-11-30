@@ -7,7 +7,6 @@ authors: Timileyin
 tags:
   - Boudoir
 ---
-<!--StartFragment-->
 
 Have you been having trouble deciding what to wear to a boudoir photo shoot? 
 
@@ -101,4 +100,3 @@ Finally, when selecting your boudoir attire, choose pieces that give you the mos
 
 However, if you think you need more direction, you can speak with your photographer.
 
-<!--EndFragment-->
