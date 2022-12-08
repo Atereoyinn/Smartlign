@@ -9,7 +9,6 @@ authors: Timileyin
 tags:
   - Gadgets
 ---
-<!--StartFragment-->
 
 Are you a student looking to get cool gadgets? Or do you want to get smart gadgets for a college student? If that is the case, you are in the right place.
 
@@ -134,5 +133,3 @@ Many students make use of kindle paperwhite to read because it is easy to carry 
  
 
 
-
-<!--EndFragment-->
