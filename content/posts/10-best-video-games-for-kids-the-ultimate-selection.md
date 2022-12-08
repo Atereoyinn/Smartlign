@@ -35,8 +35,8 @@ Pros
 
 Collaborative and friendly gameplay
 
-Multiplayer option available\
-\
+Multiplayer option available
+
 Cons
 
 Only on Nintendo Switch
