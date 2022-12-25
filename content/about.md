@@ -1,5 +1,5 @@
 ---
-title: "I’m Olanrenwaju Timileyin, A content writer based in LDN, currently the chief content manager at Smartlign"
+title: "ABOUT SMARTLIGN BLOG"
 meta_title: "About"
 image: ""
 layout: "about"
