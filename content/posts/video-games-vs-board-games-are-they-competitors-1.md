@@ -11,8 +11,6 @@ tags:
   - games
   - board
 ---
-<!--StartFragment-->
-
 Recently, there's been a controversy about which type of game is more popular among game enthusiasts-video games or board games, which is more fun to play, which has the most advantage over the other, etc.
 
 These are some of the questions most people have in mind when they think about video games and board games. Some gamers prefer video games, while others enjoy board games.
@@ -22,8 +20,6 @@ Regardless of which wins over the other, one thing is certain: both games are fu
 In this article, I dive deeply into each game type in an attempt to answer the question; Video games vs. board games which is the ultimate. What is the real difference between them? Do they compete, or are they complementary?
 
 Read on to find out.
-
-
 
 ## General Overview of Video Games and Board Games 
 
@@ -48,8 +44,6 @@ This is arguably one of the most important benefits of video games- the fact tha
 Life can get so busy most times, and people can be occupied with so many commitments. Fortunately, you don't have to travel far when you want to unplug from the hustle and bustle of life and enjoy a video game with someone else.
 
 You can simply connect online and enjoy a game together. Now that is one leverage video games have over other game types.
-
-
 
 ### Ready to Play Game
 
@@ -168,8 +162,6 @@ After a stressful day, games can be an excellent way to unwind and relieve stres
 
 All of these can improve an individual’s mood and outlook on life. Therefore, gamers tend to be happier than non-gamers.
 
-
-
 Is gaming a hobby or an addiction?
 
 There are pro gamers (people who play games professionally). Some people also play games as a hobby (for leisure).
@@ -194,18 +186,10 @@ The basic skills you need to play a game include good hand-eye coordination, sha
 
 As you play the game more often, you can see yourself mastering the techniques of the game.
 
-
-
- 
-
-
-
 ## Final Verdict
+
+![](/images/posts/pexels-yan-krukau-9069305_resize_74.jpg)
 
 To conclude, both video games are board games are fun and entertaining in their own way. They each fulfill the entertainment function for which games are designed.
 
 As a result, there is no real competition between these two types of games, especially now that most board games are also available online. Overall, it’s just a matter of preferences, and some game enthusiasts love to play both.
-
-
-
-<!--EndFragment-->
