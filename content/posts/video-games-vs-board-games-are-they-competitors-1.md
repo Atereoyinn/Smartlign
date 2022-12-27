@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Video Games vs. Board Games: Are they Competitors?"
-date: December 27, 2022 11:34 PM
+date: December 27, 2022 11:50 PM
 image: /images/posts/pexels-gustavo-fring-4148898_resize_43.jpg
 categories:
   - technology
