@@ -2,7 +2,7 @@
 layout: blog
 title: "Video Games vs. Board Games: Are they Competitors?"
 date: December 27, 2022 12:56 PM
-image: /images/posts/freelancers-problems-and-how-to-solve-them.jpg
+image: /images/posts/pexels-gustavo-fring-4148898_resize_43.jpg
 categories:
   - technology
 authors: timileyin
@@ -21,9 +21,17 @@ In this article, I dive deeply into each game type in an attempt to answer the q
 
 Read on to find out.
 
-## General Overview of Video Games and Board Games 
+## General Overview of Video Games and Board Ga﻿mes 
 
-Video games are played virtually, on a computer, or on any other gaming device. On the other hand, board games are played on a tabletop or other hard surfaces.
+## mes 
+
+![ General Overview of Video Games and Board Games](/images/posts/pexels-pavel-danilyuk-8111357_resize_95.jpg "General Overview of Video Games and Board Games")
+
+Video games are played v﻿irtually, on a computer, or on any other gaming device. On the other hand, board games are played on a tabletop or other hard surfaces.
+
+ually, on a computer, or on any other gaming device. On the other hand, board games are played on a tabletop or other hard surfaces.
+
+itually, on a computer, or on any other gaming device. On the other hand, board games are played on a tabletop or other hard surfaces.
 
 Games, generally, have always been a part of human civilization. Although video games reached mainstream in the 19th century, board games date back centuries ago, with the oldest board game in the world being the royal game of Ur, which was created about 4,600 years ago. 
 
@@ -31,9 +39,9 @@ Some popular video games include Minecraft, God of war, Call of Duty, among othe
 
 While some gamers enjoy the near-real experience offered by video games, others enjoy the tactical experience that board games offer. Overall, games are fun, and both board games and video games offer many benefits.
 
-
-
 ## Benefits of Video Games
+
+![Benefits of Video Games](/images/posts/pexels-jeshootscom-442576_resize_57.jpg "Benefits of Video Games")
 
 ### Enjoy Your Favorite Games with Other Game-enthusiasts Like You From Anywhere in the World
 
@@ -42,8 +50,6 @@ This is arguably one of the most important benefits of video games- the fact tha
 Life can get so busy most times, and people can be occupied with so many commitments. Fortunately, you don't have to travel far when you want to unplug from the hustle and bustle of life and enjoy a video game with someone else.
 
 You can simply connect online and enjoy a game together. Now that is one leverage video games have over other game types.
-
-
 
 ### Ready to Play Game
 
@@ -67,11 +73,13 @@ All of these make the soccer games exciting and give gamers the feeling of being
 
 ### Enjoy a Solo Game
 
-On days when your family or friends aren’t just available to play one or more gaming sessions with you, you can still enjoy a solo game. Most video games are designed to allow one player to play against the computer or multiple players to play against themselves.
+On days when your family or friends aren’t just available to play one or more gaming sessions with you, you can still enjoy a solo game. Most video games are designed to allow one player to play against the computer or multiple players to play against themselves.﻿﻿
 
-## Drawbacks of Video Games
+### Drawbacks of Video Games
 
-### Disconnection from the Real World
+### Disconnection from the Real World﻿
+
+
 
 Some online video gamers are designed to allow gamers to chat and connect with other gamers. As such as an online video gamer, you could have a few virtual friends.
 
@@ -88,6 +96,8 @@ Most jobs these days require using a computer. This means spending several hours
 So, spending more hours of your day during gameplay can further increase your risk of eye issues and other related sicknesses.
 
 ## Advantages of Board Games
+
+![Advantages of Board Games](/images/posts/pexels-tima-miroshnichenko-10626015_resize_0.jpg "Advantages of Board Games")
 
 ### Physical Interaction with the Game
 
@@ -113,7 +123,7 @@ This is arguably the most important benefit of board games. You don’t need to 
 
 To enjoy smooth gaming sessions, you may need to invest in a high-end computer with the right specs to handle video games' heavy graphics. However, most board games come with all the components you’ll need to play a game.
 
-## Downsides of Board Games
+### Downsides of Board Games
 
 ### Longer Setup Time
 
@@ -143,7 +153,9 @@ Memorizing these rules as you play is another big challenge. You may need to ref
 
 Finally, solving the challenge and completing the game may take hours and sometimes a whole day, depending on the kind of board game. All of this can make playing the board game quite stressful and complex. 
 
-## FAQs
+## Frequentl
+
+![](/images/posts/pexels-suzy-hazelwood-1329645_resize_32.jpg)
 
 **Are video games or board games more popular?**
 
@@ -157,8 +169,6 @@ Games offer several cognitive and psychological benefits. They tend to improve o
 After a stressful day, games can be an excellent way to unwind and relieve stress. More so, games allow you to socialize and mingle with others (when playing multi-player games). 
 
 All of these can improve an individual’s mood and outlook on life. Therefore, gamers tend to be happier than non-gamers.
-
-
 
 **Is gaming a hobby or an addiction?**
 
@@ -184,18 +194,12 @@ The basic skills you need to play a game include good hand-eye coordination, sha
 
 As you play the game more often, you can see yourself mastering the techniques of the game.
 
-
-
- 
-
-
-
 ## Final Verdict
+
+![](/images/posts/pexels-yan-krukau-9069305_resize_74.jpg)
 
 To conclude, both video games are board games are fun and entertaining in their own way. They each fulfill the entertainment function for which games are designed.
 
 As a result, there is no real competition between these two types of games, especially now that most board games are also available online. Overall, it’s just a matter of preferences, and some game enthusiasts love to play both.
 
-
-
-<!--EndFragment-->
+<
