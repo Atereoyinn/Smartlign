@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "6 Best Smart Gadgets for College Students: The Most Productive"
-date: December 30, 2022 9:28 AM
+date: December 30, 2022 9:36 AM
 image: /images/posts/shutterstock_1095204983.jpg
 categories:
   - technology
