@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: The 6 Best Smart Gadgets for College Students
-date: December 30, 2022 7:08 AM
+date: December 30, 2022 9:18 AM
 image: /images/posts/shutterstock_1095204983.jpg
 categories:
   - technology
