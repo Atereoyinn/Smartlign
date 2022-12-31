@@ -22,6 +22,7 @@ const Document = () => {
           media="(prefers-color-scheme: dark)"
           content="#000"
         />
+        <meta name="google-site-verification" content="acw2rarqDi5-8GUoi5rWzBwS7MQpffZjcbHY2TLf-rM" />
         <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
       </Head>
       <body>
