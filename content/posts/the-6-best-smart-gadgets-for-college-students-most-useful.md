@@ -11,13 +11,11 @@ tags:
   - college
   - student
 ---
-Are you a student looking to get cool gadgets? Or do you want to get smart gadgets for a college student? If that is the case, you are in the right place.
+Are you a student looking for cool gadgets? Or do you want to get smart gadgets for a college student? If that is the case, you are in the right place.
 
-Taking that first step toward college is exciting and opens up new opportunities for growth and change in your life. As a result, you'll meet new people, discover new interests, and find your path. 
+Taking that first step toward college is exciting and opens up new opportunities for growth and change. Hence, having the right gadgets will also help ease the transition to college. 
 
-The right gadgets will help ease the transition into college. We have a great list of perfect gadgets for college students that will make life easier on campus.
-
-In this article, I will briefly discuss each gadget and its usefulness, making it the best smart gadget for college students.
+To that effect, we have put together an awesome list of gadgets that will make college life easier for students. In this article, I will briefly discuss each gadget and its usefulness that makes it the best smart gadget for college students.  
 
 Read on to find out.
 
@@ -43,7 +41,7 @@ In the long, having a laptop helps you to organize documents and notes. It also 
 
 With Acer - C738T-C44Z Chromebook, you get the ideal laptop for a college student. It is a cheap and superfast laptop complement of the Chrome OS to do your basic online school activities. 
 
-If you like to get one, visit[Amazon.com](https://amzn.to/3CanDPc). 
+If you like to get one, visit [Amazon.com](https://amzn.to/3CanDPc). 
 
 ### Headphones: JBL Tune 660NC 
 
