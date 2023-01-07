@@ -19,6 +19,10 @@ To that effect, we have put together an awesome list of gadgets that will make c
 
 Read on to find out.
 
+"markdownit: { html: true, },"
+
+
+
 ## Why Buy Smart Gadgets for College Students?
 
 Smart gadgets can be a life-saver while in school. You may be given an assignment that you can easily complete on a laptop. Therefore, if you already have one, you can take advantage of it.
